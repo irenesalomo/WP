@@ -1,1 +1,2 @@
-test GIT first file
+test GIT first file.
+make my first change
